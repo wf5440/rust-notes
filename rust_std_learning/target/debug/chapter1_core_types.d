@@ -1,0 +1,1 @@
+D:\RustLearning\RustProjects\learning\20251024\rust-scripts-notes\rust_std_learning\target\debug\chapter1_core_types.exe: D:\RustLearning\RustProjects\learning\20251024\rust-scripts-notes\rust_std_learning\src\bin\chapter1_core_types.rs
